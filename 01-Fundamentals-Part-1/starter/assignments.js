@@ -60,3 +60,5 @@ const description1 =
   " million people speak " +
   language;
 console.log(description1);
+
+const description = `${country} is in ${continent}, and its ${population} million people speak ${language}`;
